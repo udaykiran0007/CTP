@@ -200,6 +200,8 @@ Thank you for ordering!
 ```
 
 ---
+Time Complexity  : O(n)
+Space Complexity : O(n)
 
 ## 8. Conclusion
 
